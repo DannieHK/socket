@@ -1,1 +1,5 @@
-Live wheater information from api, using socket.io
+Node.js with socket.io
+
+- Live wheater information from api
+
+- Live chat
